@@ -1,13 +1,13 @@
 # Icons on the footer
 rss: true         # Make sure you created a feed.xml with feed.xml layout
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "laura@rochaprado.com"   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "arbolitoloco"
 instagram:
 keybase:
 linkedin:         # Full URL
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: "laurarochaprado"         # "twitter username"
 vimeo:
 wordpress:
 youtube:
