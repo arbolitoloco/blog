@@ -5,12 +5,12 @@ url: "https://arbolitoloco.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: gambiarra                                        # site's title
 description: "coding, bioinformatics and data science with a half programmer"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/gambiarra.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: <h1>gambiarra</h1><h3>coding, bioinformatics and data science with a half programmer</h3>                                     # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: <h1>gambiarra</h1><h3>coding, biodiversity informatics, and web development stuff</h3>                                     # Change Blog header text
+header_feature_image: assets/img/pexels/rozan-naufal-S7YZG9X3rnA-unsplash.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
